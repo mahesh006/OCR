@@ -1,0 +1,9 @@
+streamlit==1.25.0
+transformers==4.37.2
+torch==2.0.1
+torchvision==0.15.2
+Pillow
+easyocr==1.7.0
+tiktoken
+verovio
+accelerate==0.28.0
